@@ -7,7 +7,7 @@ L'objectif de ce projet est de démontrer techniquement comment répondre à la 
 
 ##  Stack Technique
 * **Langage :** Java 21 (Utilisation des `records`, API `java.time`)
-* **Framework :** Spring Boot 3.x
+* **Framework :** Spring Boot 4.0.5
 * **Persistance :** Spring Data JPA / Hibernate
 * **Base de données :** H2 Database (In-memory pour faciliter le test)
 * **Validation :** Spring Boot Starter Validation
