@@ -1,4 +1,4 @@
-#  -------------------------------------------Onboarding Express API - LCL (Squad ERI)------------------------------------------------------------
+#                                                        Onboarding Express API - LCL (Squad ERI)
 
 ##  Contexte du Projet
 Cette API REST a été conçue sur-mesure dans le cadre de ma candidature pour le poste de **Développeur Back-End Java en alternance (24 mois)** au sein de la Squad ERI chez LCL. 
