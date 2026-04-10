@@ -1,4 +1,4 @@
-package com.lcl.onboarding;
+package com.lcl.onboarding_express;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

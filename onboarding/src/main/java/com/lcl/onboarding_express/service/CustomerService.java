@@ -1,8 +1,8 @@
-package com.lcl.onboarding.service;
+package com.lcl.onboarding_express.service;
 
-import com.lcl.onboarding.dto.CustomerRegistrationRequest;
-import com.lcl.onboarding.model.Customer;
-import com.lcl.onboarding.repository.CustomerRepository;
+import com.lcl.onboarding_express.dto.CustomerRegistrationRequest;
+import com.lcl.onboarding_express.model.Customer;
+import com.lcl.onboarding_express.repository.CustomerRepository;
 import org.springframework.stereotype.Service;
 import java.time.LocalDate;
 import java.time.Period;

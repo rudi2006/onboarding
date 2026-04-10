@@ -1,8 +1,8 @@
-package com.lcl.onboarding.controller;
+package com.lcl.onboarding_express.controller;
 
-import com.lcl.onboarding.dto.CustomerRegistrationRequest;
-import com.lcl.onboarding.model.Customer;
-import com.lcl.onboarding.service.CustomerService;
+import com.lcl.onboarding_express.dto.CustomerRegistrationRequest;
+import com.lcl.onboarding_express.model.Customer;
+import com.lcl.onboarding_express.service.CustomerService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

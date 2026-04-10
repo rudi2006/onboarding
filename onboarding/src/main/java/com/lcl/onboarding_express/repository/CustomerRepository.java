@@ -1,6 +1,6 @@
-package com.lcl.onboarding.repository;
+package com.lcl.onboarding_express.repository;
 
-import com.lcl.onboarding.model.Customer;
+import com.lcl.onboarding_express.model.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

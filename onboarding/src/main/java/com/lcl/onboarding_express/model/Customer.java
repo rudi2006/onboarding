@@ -1,4 +1,4 @@
-package com.lcl.onboarding.model;
+package com.lcl.onboarding_express.model;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
